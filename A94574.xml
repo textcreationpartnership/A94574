@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Parliament of the Commonwealth of England, Scotland and Ireland, &amp;c. The humble petition of divers of the inhabitants of the North-riding of the county of York; in the behalf of themselves, and the well-affected of the nation.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94574</idno>
+            <idno type="STC">Wing T1588</idno>
+            <idno type="STC">Thomason 669.f.20[44]</idno>
+            <idno type="STC">ESTC R211875</idno>
+            <idno type="EEBO-CITATION">99870552</idno>
+            <idno type="PROQUEST">99870552</idno>
+            <idno type="VID">163461</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94574)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163461)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 247:669f20[44])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Parliament of the Commonwealth of England, Scotland and Ireland, &amp;c. The humble petition of divers of the inhabitants of the North-riding of the county of York; in the behalf of themselves, and the well-affected of the nation.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Cottrel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656 [i.e. 1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "January. 10".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Yorkshire (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:163461:1" rendition="simple:additions"/>
+            <head>To the Parliament of the Commonwealth of <hi>England, Scotland</hi> and <hi>Ireland,</hi> &amp;c. The humble Petition of divers of the Inhabitants of the North-riding of the County of <hi>York;</hi> in the behalf of themſelves, and the well-affected of the Nation.</head>
+            <p>THat we do humbly acknowledge the mercy of God in preſerving this Nation againſt the many Attempts of the Enemies thereof: and we likewiſe hope, the ſame God hath in mercy called this Aſſembly together by his providence, for the peace and good of this Commonwealth, to be an healing to it, to looſe the bands of wickedneſs, to undo the heavie bur<g ref="char:EOLhyphen"/>dens, and let the oppreſſed go free, and to break every yoke. In confidence of which, we do hereunto preſent our humble Deſires,</p>
+            <p n="1">1. That, when it may ſtand with the ſafety of the Commonwealth, and the honeſt people thereof, the Taxes may be aba<g ref="char:EOLhyphen"/>ted, to ſuch a proportion as may ſuit with our ſafety. Nevertheleſs it is our deſires, that the Nation may not be left without viſible Security; and that not in new-raiſed Forces, but of the old Army, who under God have been our protection: and that towards the extraordinary charge thereof, the Burthen may lie upon ſuch as the Nation hath moſt cauſe to ſuſpect Dan<g ref="char:EOLhyphen"/>ger from; namely, the Royal party, and ſuch perſons as in time of danger and common diſturbances did reſerve themſelves in Neutrality, to joyn with the prevailing party; and whoſe judgements and practices do incline them to admit of things which may reduce us to no better ſtate, then the beginnings of our Troubles found us in; and who will be apt to joyn with any people tending that Way. And this we conceive to be juſt, both to indulge thoſe of the well-affected who in times of danger under God muſt be our ſtrength, and to lay a proportionable puniſhment upon that party, whom we have moſt cauſe to ſuſpect were univerſally approving or knowing of the late Diſtempers to introduce <hi>Charles Stuart</hi> and his intereſt, in the late Plot and attempts in theſe and other parts of the Nation.</p>
+            <p n="2">2. That this Aſſembly, by the bleſſing of the Lord, would incline to Thoughts and Councels of Uniting and Healing of thoſe unhappie Diſtances and Differences which have faln out between thoſe Good people of the Nation, who in time of Hazard and Combuſtion were joyned in heart and prayer, and did hazard all which was dear unto them, for the good of the Nation.</p>
+            <p n="3">3. That for this purpoſe, all prejudice be put in Oblivion; and that, as one man, you would ſet your ſelves to purſue thoſe juſt Ends which have formerly been in profeſſion, and publikely declared for, both by Parliament and Army.</p>
+            <p n="4">4. That without reſpect of Perſons or Intereſt, the execution of Juſtice and Right may be reduced to that end for which it was ordained; namely, to do equal, cheap, and ſpeedy right; and that evil adminiſtration of Juſtice, in Courts of Juſtice, in what perſons ſoever, may be duely and ſeverely puniſhed: and that ſuch of them as ſhall be found to over-rule, decline, or evade the Laws, may be brought to condign puniſhment.</p>
+            <p n="5">5. That the Judges of all Courts may, according to ancient and late Laws and Reſolutions in Parliament, take no Re<g ref="char:EOLhyphen"/>ward, Fee, or Salary, but what Salary is appointed by the State; and that ſuch as have practiſed otherwiſe may be made ex<g ref="char:EOLhyphen"/>emplary.</p>
+            <p n="6">6. That it may not be in the power of the Upper Bench, or of any other Court in <hi>Weſtminſter,</hi> by <hi>Certiorari</hi> or otherwiſe, to ſtop proceedings in any inferiour Courts, but where corruption or injuſtice is proved by two Witneſſes upon Oath, and in publike Court, or by Writ of Error after Judgement.</p>
+            <p n="7">7. That all perſons employed in the Magiſtracie, may be perſons diſowning the Malignant party, juſt, ruling in the fear of the Lord, and active in the diſcountenancing of Looſneſs and looſe perſons, and protecting of all conſcientious and ſo<g ref="char:EOLhyphen"/>ber people.</p>
+            <p n="8">8. That a competent Guard may be appointed for the Northern coaſts, for the better encouragement of Trade.</p>
+            <p n="9">9. That the Tax of Exciſe may be ſo conſidered of, as to abate it, if it may ſtand with the neceſſity of the Nation: how<g ref="char:EOLhyphen"/>ever, that the way of levying it may be leſs arbitrary in the Officers, who get great profit to themſelves, and bring little to the State.</p>
+            <p n="10">10. That a ſtanding Court or Courts may be erected in theſe Northern parts, for the adminiſtration of Law and Juſtice, and for the diſpatch and eaſe of the Country.</p>
+            <p n="11">11. That a Regiſter may be ſetled in this County, for the probate of Wills, and granting Adminiſtrations, and likewiſe for the Entering of all Contracts, Evidences, Purchaſes, and Conveyances; for the preventing of Frauds, and to avoid the multitude of Controverſies and Suits.</p>
+            <p n="12">12. That the Treaſure of the Nation may be managed with Frugality, that it may be applied onely to the neceſſary Oc<g ref="char:EOLhyphen"/>caſions of the Commonwealth, and not otherwiſe: and that ſome orderly way may be ſet down, that all perſons intruſted with Treaſure, may give frequent and due accounts, and ſuch accounts may be made known to Parliaments.</p>
+            <p n="13">13. That care may be taken to keep this Aſſembly purged from all perſons who have any way aided, abetted, or aſſiſted the late King againſt the late Parliament, or <hi>Charles Stuart</hi> his or their deſignes; and from ſuch perſons, who in their deport<g ref="char:EOLhyphen"/>ments have always expreſſed themſelves indulgencers and countenancers of ſuch practices, and diſcountenancers of the well<g ref="char:EOLhyphen"/>affected; and from all perſons looſe and profane in converſation: to the end, by the bleſſing of the Lord, your Aſſembly may conſiſt of ſuch (and no other) as are of known integrity, fearing God, and of good converſation; that the Lord may delight in you, as inſtruments in his hand for our good.</p>
+            <p n="14">14. That all perſons who ſhall hereafter be admitted to any Office Civil or Military, may have the like qualifications.</p>
+            <p>All which, we in all humility offer to this Aſſembly, as our Tender; and deſire it may be taken into effectual conſideration.</p>
+            <closer>
+               <signed>And we, as in duty bound, ſhall pray, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="order">
+            <p>Read <date>the 23 <hi>of</hi> December:</date> Preſented by the Right Honourable George <hi>Lord</hi> Ewre.
+And the Houſe ordered his Lordſhip to return his Country-men (the Petitioners) the hearty Thanks of the Houſe for their good affections expreſſed in that Petition.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON: Printed by <hi>James Cottrel.</hi> 1656.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
